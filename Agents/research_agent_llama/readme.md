@@ -1,4 +1,4 @@
-# Research Agent with LLaMA and Falcon Models
+# Research Agent with LLaMA
 
 This project implements a **Research Agent** that combines state-of-the-art language models, like **LLaMA** and **Falcon**, with search and summarization capabilities. The agent can:
 - **Perform web searches** using DuckDuckGo.
