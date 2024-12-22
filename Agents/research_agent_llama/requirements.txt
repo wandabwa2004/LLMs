@@ -1,0 +1,7 @@
+streamlit==1.26.0
+langchain==0.0.318
+transformers==4.33.3
+torch==2.0.1
+sentencepiece==0.1.99
+bitsandbytes==0.41.1
+langchain-community-tools==0.0.3
