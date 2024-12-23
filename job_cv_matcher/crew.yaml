@@ -1,0 +1,6 @@
+crew:
+  name: MultiStepJobMatcher
+  tasks:
+    - name: run_app
+      file: app.py
+      function: main
