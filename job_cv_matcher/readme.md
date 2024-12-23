@@ -28,6 +28,7 @@ Built with Streamlit, ensuring a simple, browser-based UI.
 - Numpy for embedding-based similarity
 
 ## Project Structure
+```
 my_job_matcher/
 ├── crew.yml                 # (Optional) CrewAI orchestration file
 ├── requirements.txt         # Python dependencies
@@ -37,6 +38,7 @@ my_job_matcher/
 ├── text_cleaning.py     # Basic text cleaning
 ├── tools.py             # Embedding + similarity calculations
 └── match_agent.py       # Multi-step agent logic (LLM calls)
+```
 
 ```app.py```: Main Streamlit app. This is the entry point for the user interface.
 
