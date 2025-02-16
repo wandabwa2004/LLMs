@@ -1,0 +1,12 @@
+risk_assessment:
+  description: "Evaluate operational and compliance risks"
+  expected_output: "Risk matrix with probability/impact scores and mitigation strategies"
+  prompt: |
+    Analysis summary: {analysis_content}
+    Plan details: {plan_content}
+
+    Required Assessment:
+    1. Safety compliance gaps
+    2. Regulatory exposure points
+    3. Failure cascade risks
+    4. Workforce safety factors

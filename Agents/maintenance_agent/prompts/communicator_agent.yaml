@@ -1,0 +1,12 @@
+executive_summary:
+  description: "Create board-level summary"
+  expected_output: "Executive memo with prioritized action items and risk tradeoffs"
+  prompt: |
+    Financial Analysis: {financial_content}
+    Risk Assessment: {risk_content}
+
+    Synthesis Requirements:
+    1. Top 3 priorities with justification
+    2. Financial vs risk tradeoffs
+    3. 90-day action plan
+    4. Long-term strategic implications
