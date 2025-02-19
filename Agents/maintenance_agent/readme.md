@@ -11,7 +11,7 @@ The framework leverages Deepseek—a local reasoning LLM running in Ollama—to 
 
 ## Backstory
 
-During a session with a senior manager at a power generation company in NSW, I was presented with a challenging scenario: using equipment maintenance data to derive insights that could inform the strategic direction of the company. At the time, the problem seemed daunting. Two years later, I revisited this scenario from an agentic AI perspective, which led me to develop this integrated framework combining optimization with strategic reasoning.
+During a session with a senior manager at a power generation company in NSW, I was presented with a challenging scenario: using equipment maintenance data to derive insights that could inform the strategic direction of the company. At the time, the problem seemed daunting. Two years later, I revisited this scenario from an agentic AI perspective, which led me to develop this integrated framework combining optimization with strategic reasoning. You can read the full article [here](https://hermanwandabwa.medium.com/optimizing-equipment-maintenance-planning-with-deepseek-reasoning-llm-and-agents-crewai-a063114f8bb6).
 
 ## File Structure
 
