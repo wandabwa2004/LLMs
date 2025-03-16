@@ -32,7 +32,7 @@ This repository demonstrates a complete RAG implementation:
 
 ## Project Structure
 
-├── app.py # Main Streamlit application integrating the RAG flow. 
+├── app.py # Main Streamlit application integrating the RAG flow. <br>
 ├── data_handler.py # Handles data loading, chunking, embedding generation, and ChromaDB integration. 
 ├── scraper.py # Scrapes FAQ data from the Freshdesk support page. 
 ├── utils.py # Contains functions for prompt building and OpenAI API integration. 
