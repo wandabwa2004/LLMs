@@ -63,16 +63,16 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 `pip install -r requirements.txt`
 
-4. Usage
+## Usage
 
-**Scraping FAQs**
+### Scraping FAQs
 Before running the smart assistant, scrape the FAQs from Safaricom's website:
 
 `python scraper.py`
 
 This will create a file named `faq_data.json` containing all the scraped FAQ pairs.
 
-**Launching the Smart Assistant**
+### Launching the Smart Assistant
 
 After generating the FAQ data, run the Gradio interface:
 
@@ -80,7 +80,7 @@ After generating the FAQ data, run the Gradio interface:
 
 The Gradio interface will launch in your browser. Enter your OpenAI API key and a query (e.g., "How do I register for MPESA?") to interact with the smart assistant.
 
-5. Deployment Considerations
+### Deployment Considerations
 
 **Local Deployment:**
 
