@@ -48,8 +48,8 @@ This repository demonstrates a complete RAG implementation:
 1. **Clone the Repository:**
 
    ```
-   git clone https://github.com/yourusername/fitness-passport-rag-chatbot.git
-   cd fitness-passport-rag-chatbot
+   git clone https://github.com/wandabwa2004/LLMs.git
+   cd RAG_Fitness_First
    ```
 
 2. **Create a Virtual Environment:**
