@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+gradio
+sentence-transformers
+faiss-cpu
+openai
+numpy
