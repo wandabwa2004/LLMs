@@ -1,0 +1,11 @@
+financial_analysis:
+  description: "Analyze maintenance plan financial aspects"
+  expected_output: "Markdown report with cost breakdowns and 3-year ROI projections"
+  prompt: |
+    Review the maintenance plan details: {content}
+    
+    Required Analysis:
+    1. Cost breakdown by equipment type
+    2. 3-year ROI projection
+    3. Alternative cost-saving scenarios
+    4. Risk-adjusted financial impact
