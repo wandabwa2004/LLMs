@@ -51,8 +51,8 @@ This project implements a RAG system that enhances customer support by combining
 1. Clone the Repository:
 
 ```
-git clone https://github.com/yourusername/safaricom-smart-assistant.git
-cd safaricom-smart-assistant
+git clone https://github.com/wandabwa2004/LLMs.git
+cd RAG_Safaricom
 ```
 2. Create a Virtual Environment:
 ```
