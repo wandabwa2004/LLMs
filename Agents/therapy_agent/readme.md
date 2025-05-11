@@ -55,8 +55,8 @@ This repository explores different architectural approaches for building such a 
  
  1.  **Clone the Repository:**
      ```bash
-     git clone <your-repository-url>
-     cd <repository-name>
+     git clone https://github.com/wandabwa2004/LLMs.git
+     cd Agents/therapy_agent
      ```
  
  2.  **Create and Activate a Virtual Environment:**
