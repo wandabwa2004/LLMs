@@ -15,7 +15,7 @@ Mental well-being is crucial, especially for teenagers navigating the complexiti
  
 This repository explores different architectural approaches for building such a chatbot, including:
  *   **Sequential LLM Calls (`app_v2.py`):** Simulating specialized agents through a sequence of targeted LLM interactions.
- *   **Multi-Agent System with `crewAI` (`app_v3.py`):** Utilizing the `crewAI` framework to orchestrate a team of specialized AI agents.
+ *   **Multi-Agent System with `crewAI` (`app_v2_crewai.py`):** Utilizing the `crewAI` framework to orchestrate a team of specialized AI agents.
  
 ## Key Features
  
@@ -33,7 +33,7 @@ This repository explores different architectural approaches for building such a 
  
  *   **Programming Language:** Python
  *   **LLM Interaction:** OpenAI (GPT-4o-mini) via LangChain
- *   **Agent Framework (for `app_v3.py`):** `crewAI`
+ *   **Agent Framework (for `app_v2_crewai.py`):** `crewAI`
  *   **Web Framework:** Streamlit
  *   **Environment Management:** `python-dotenv`
  *   **Core Libraries:** `langchain`, `langchain-openai`
@@ -44,7 +44,7 @@ This repository explores different architectural approaches for building such a 
  
  ```
  ├── app_v2.py         # Chatbot implementation using sequential LLM calls
- ├── app_v3.py         # Chatbot implementation using the crewAI framework
+ ├── app_v2_crewai.py         # Chatbot implementation using the crewAI framework
  ├── .env.example      # Example environment file
  ├── requirements.txt  # Python dependencies
 
