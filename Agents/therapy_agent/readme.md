@@ -1,4 +1,3 @@
-
 # Teen Therapy Chat (Kenya)
 
 Welcome to the Teen Therapy Chat (Kenya) project! This AI-powered chatbot is designed to provide a supportive, culturally sensitive, and accessible space for Kenyan teenagers to share their feelings, explore challenges, and receive guidance.
@@ -82,13 +81,13 @@ This repository explores different architectural approaches for building such a 
  You can run either version of the chatbot:
  
  *   **To run the version with sequential LLM calls:**
-     ```bash
+     ```
      streamlit run app_v2.py
      ```
  
  *   **To run the version with `crewAI`:**
-     ```bash
-     streamlit run app_v3.py
+     ```
+     streamlit run app_v2_crewai.py
      ```
  
  Open your web browser and navigate to the local URL provided by Streamlit (usually `http://localhost:8501`).
