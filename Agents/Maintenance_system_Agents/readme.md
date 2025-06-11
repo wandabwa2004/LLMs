@@ -88,8 +88,10 @@ The solver returns an **optimal** or **feasible** solution, marking each item wi
 1. **Clone** this repository:
 
    ```
-   git clone https://github.com/YourUsername/YourRepo.git
-   cd YourRepo```
+   git clone https://github.com/wandabwa2004/LLMs.git
+   cd to Maintenance_system_Agents
+   ```
+ 
 
 2. Install Python dependencies:
    `pip install -r requirements.txt`
